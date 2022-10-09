@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <AD-Amlas>
+   # AD-Amlas
 
    # Input:
    # p, principal amount
